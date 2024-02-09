@@ -1,10 +1,10 @@
 # Task Manager Project in Java
 
-Welcome to my Task Manager project implemented in Java! This project serves as my first venture into Java programming, and I've dedicated a significant amount of time to its development. I've been on a learning journey, exploring Java syntax, concepts, and best practices through a combination of watching YouTube videos and consulting various tutorials.
+This is my very first Java project, and I've spent a good amount of time learning and building it. I mainly relied on YouTube videos and tutorials to figure things out.
 
 ## Project Overview
 
-This Task Manager is a console-based application designed to help users manage their tasks efficiently. It allows users to create tasks, set priorities, mark tasks as completed, and even set reminders. Tasks can be categorized into projects, providing an organized way to manage different aspects of your workload.
+This Task Manager is a basic program that helps you manage your tasks. I've made it so you can create tasks, group them into projects, mark them as done, and even set reminders. It's all done through a simple text interface in your console.
 
 ## Features
 
@@ -15,7 +15,7 @@ This Task Manager is a console-based application designed to help users manage t
 
 ## How to Use
 
-To run the Task Manager, simply execute the `TaskManager.java` file. The application will prompt you with a menu, allowing you to interact with various features.
+To run the Task Manager, just run the TaskManager.java file. The program will give you a menu to interact with different features.
 
 ```bash
 java TaskManager.java
